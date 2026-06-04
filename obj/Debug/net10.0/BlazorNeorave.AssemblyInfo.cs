@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorNeorave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb9615124342cf0b90087316f6532d76541b478b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorNeorave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorNeorave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
